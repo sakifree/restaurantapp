@@ -3,9 +3,15 @@
 * **Description:** An app that compiles different restaurants/bars within North Carolina that I have personally visited or aspire to visit. Only admin will be able to add, update, or delete an entry.
 * **Technologies/Methods Used:** Express, Mongoose, MongoDB
 
+<br />
+<br />
+
 ### *Models*
 ***
 ![Model](https://i.imgur.com/Slfhfbz.png)
+
+<br />
+<br />
 
 ### *Routes*
 ***
@@ -26,6 +32,9 @@
 * **Description:** An app that compiles different restaurants/bars within North Carolina that I have personally visited or aspire to visit. Only admin will be able to add, update, or delete an entry.
 * **Technologies/Methods Used:** Next.js, CSS, JavaScript/JSX, API, Tailwind, Vercel
 
+<br />
+<br />
+
 ### *Wireframes*
 ***
 #### Site Design Mockup
@@ -33,6 +42,9 @@
 ![Show Page](https://i.imgur.com/oo9PxkN.png)
 ![New Page - ADMIN ONLY](https://i.imgur.com/v0CXzZc.png)
 ![Edit/Delete Page - ADMIN ONLY](https://i.imgur.com/is16Hmu.png)
+
+<br />
+<br />
 
 
 #### *Deployed App*
